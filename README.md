@@ -9,7 +9,7 @@ projectile-ripgrep and select and run them form convenient ui (via hydra).
 * `ripgrep`
 * `hydra`
 
-# install from MELPA
+# TODO: install from MELPA
 `M-x package-install RET cprg RET`
 
 # usage
