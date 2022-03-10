@@ -161,7 +161,7 @@ Exclude: %%`cprg-excluded-globs
   (cprg-hydra/body))
 
 (defun cprg-search (search-term &optional arg)
-  "Run a Ripgrep search with `SEARCH-TERM' rooted at the current projectile project root.
+  "Run a Ripgrep search with `SEARCH-TERM' under the current project root.
 
 With an optional prefix argument `ARG' `SEARCH-TERM' is interpreted as a
 regular expression."
